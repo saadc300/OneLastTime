@@ -3,9 +3,10 @@ package stepDefinitions;
 import core.Base;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import utilities.UtilityClasses;
+
 import org.junit.Assert;
 import PageObject.HomePageObject;
-import utilities.UtilityClasses;
 
 public class HomePageStepDefinitions extends Base{
 
