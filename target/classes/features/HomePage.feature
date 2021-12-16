@@ -1,4 +1,4 @@
-@Home
+@smokeTest
 Feature: Home Page
 
 Background:
