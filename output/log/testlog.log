@@ -243,3 +243,4 @@
 2021-12-12 21:06:33,499 - logger_File -INFO - User click on continue button Edit Button
 2021-12-12 21:06:33,500 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
 2021-12-12 21:06:33,502 - logger_File -INFO - ScnarioEdit your account Information PASSED
+2021-12-15 21:04:02,646 - logger_File -INFO - Scenariouser verify all items are present in Desktops tabStarted
