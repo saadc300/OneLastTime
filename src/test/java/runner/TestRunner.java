@@ -12,7 +12,8 @@ import io.cucumber.junit.CucumberOptions;
 		dryRun= false, //checks if there are any missing steps in stepDefinition class for each scenario 
 		monochrome= true,//Will make console to readable 
 		strict = true,     // will mark scenario failed if there are any pending steps 
-		plugin = {"pretty"},/// to make result readable 
+		plugin = {"pretty",
+				"html:target/cucumber-reports/cucumber-pretty", "json:target/cucmber-reports/CucumberTestReport.json", "rerun:target/cucumber-reports/rerun.txt"},/// to make result readable 
 		publish = true // to publish to console 
 		)
 public class TestRunner {
