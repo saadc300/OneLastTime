@@ -21,7 +21,7 @@ public class CucumberReportingConfig {
 		jsonFiles.add("target\\cucumber.json");
 		
 		String buildNumber = "1";
-		String projectName = "Tek School bank";
+		String projectName = "CapStone";
 		Configuration configuration = new Configuration(reportOutputDirectory, projectName);
 		// optional configuration - check javadoc for details
 		configuration.addPresentationModes(PresentationMode.RUN_WITH_JENKINS);

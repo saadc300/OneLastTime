@@ -244,3 +244,87 @@
 2021-12-12 21:06:33,500 [main] INFO logger_File - User should see a message Success: Your account has been successfully updated
 2021-12-12 21:06:33,502 [main] INFO logger_File - ScnarioEdit your account Information PASSED
 2021-12-15 21:04:02,646 [main] INFO logger_File - Scenariouser verify all items are present in Desktops tabStarted
+2021-12-19 11:36:58,273 [main] INFO logger_File - Scenariouser verify all items are present in Desktops tabStarted
+2021-12-19 11:37:06,895 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:07,015 [main] INFO logger_File - user click on desktop tab
+2021-12-19 11:37:09,090 [main] INFO logger_File - Scnariouser verify all items are present in Desktops tab PASSED
+2021-12-19 11:37:09,134 [main] INFO logger_File - Scenariouser add HP LP 3065  from Desktops tab to the cartStarted
+2021-12-19 11:37:12,914 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:13,056 [main] INFO logger_File - user click on desktop tab
+2021-12-19 11:37:17,645 [main] INFO logger_File - Scnariouser add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-19 11:37:17,672 [main] INFO logger_File - Scenariouser add Canon EOS 5D from Desktops tab to the cartStarted
+2021-12-19 11:37:24,921 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:25,009 [main] INFO logger_File - user click on desktop tab
+2021-12-19 11:37:30,319 [main] INFO logger_File - Scnariouser add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-19 11:37:30,366 [main] INFO logger_File - Scenariouser add a review to Canon EOS 5D item in Desktops tabStarted
+2021-12-19 11:37:35,330 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:35,432 [main] INFO logger_File - user click on desktop tab
+2021-12-19 11:37:45,142 [main] INFO logger_File - Scnariouser add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-12-19 11:37:45,167 [main] INFO logger_File - ScenarioUser verify currency values changeStarted
+2021-12-19 11:37:50,984 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:37:51,123 [main] INFO logger_File - User successfully clicked on Currency button
+2021-12-19 11:37:52,130 [main] INFO logger_File - User successfully selected Euro as Currency
+2021-12-19 11:37:53,237 [main] INFO logger_File - Valideted that currency is Euro now
+2021-12-19 11:37:53,238 [main] INFO logger_File - ScnarioUser verify currency values change PASSED
+2021-12-19 11:37:53,258 [main] INFO logger_File - ScenarioUser empty Shopping cart message displaysStarted
+2021-12-19 11:37:59,224 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:37:59,411 [main] INFO logger_File - User clicked on Shopping Cart button
+2021-12-19 11:38:00,618 [main] INFO logger_File - Validated that cart is empty
+2021-12-19 11:38:00,619 [main] INFO logger_File - ScnarioUser empty Shopping cart message displays PASSED
+2021-12-19 11:38:00,642 [main] INFO logger_File - ScenarioAdd and Remove a Mac book from CartStarted
+2021-12-19 11:38:06,103 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:38:09,972 [main] INFO logger_File - ScnarioAdd and Remove a Mac book from Cart PASSED
+2021-12-19 11:38:09,995 [main] INFO logger_File - ScenarioProduct ComparisonStarted
+2021-12-19 11:38:15,043 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:38:18,045 [main] INFO logger_File - ScnarioProduct Comparison PASSED
+2021-12-19 11:38:18,064 [main] INFO logger_File - ScenarioAdding an item to Wish list   compare.add('44');Started
+2021-12-19 11:38:24,237 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:38:25,761 [main] INFO logger_File - ScnarioAdding an item to Wish list   compare.add('44'); PASSED
+2021-12-19 11:38:25,782 [main] INFO logger_File - ScenarioValidate the price of MacBook Pro is 2000Started
+2021-12-19 11:38:34,735 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:38:38,194 [main] INFO logger_File - ScnarioValidate the price of MacBook Pro is 2000 PASSED
+2021-12-19 11:38:38,306 [main] INFO logger_File - ScenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2021-12-19 11:38:44,965 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:38:45,042 [main] INFO logger_File - User Click On Myaccount
+2021-12-19 11:38:46,726 [main] INFO logger_File - User Click on Login Option
+2021-12-19 11:38:46,987 [main] INFO logger_File - Usersaad@test.comand password test1234
+2021-12-19 11:38:47,481 [main] INFO logger_File - User Click on Login lOption
+2021-12-19 11:38:59,887 [main] INFO logger_File - ScnarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-12-19 11:38:59,940 [main] INFO logger_File - ScenarioEdit your affiliate information from Cheque payment method to Bank TransferStarted
+2021-12-19 11:39:04,428 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:39:04,521 [main] INFO logger_File - User Click On Myaccount
+2021-12-19 11:39:04,859 [main] INFO logger_File - User Click on Login Option
+2021-12-19 11:39:05,033 [main] INFO logger_File - Usersaad@test.comand password test1234
+2021-12-19 11:39:05,318 [main] INFO logger_File - User Click on Login lOption
+2021-12-19 11:39:13,836 [main] INFO logger_File - ScnarioEdit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-19 11:39:13,869 [main] INFO logger_File - ScenarioEdit your account InformationStarted
+2021-12-19 11:39:18,563 [main] INFO logger_File - Actual Title is matching with expected Title
+2021-12-19 11:39:18,648 [main] INFO logger_File - User Click On Myaccount
+2021-12-19 11:39:19,378 [main] INFO logger_File - User Click on Login Option
+2021-12-19 11:39:19,591 [main] INFO logger_File - Usersaad@test.comand password test1234
+2021-12-19 11:39:19,920 [main] INFO logger_File - User Click on Login lOption
+2021-12-19 11:39:24,016 [main] INFO logger_File - ScnarioEdit your account Information FAILED
+2021-12-19 11:44:50,987 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2021-12-19 11:44:55,987 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:44:56,104 [main] INFO logger_File - user clicked on MyAccount
+2021-12-19 11:44:56,424 [main] INFO logger_File - user cliecked on Login option
+2021-12-19 11:44:56,624 [main] INFO logger_File - user entersaad@test.comand passwordtest1234
+2021-12-19 11:44:56,950 [main] INFO logger_File - user clicked on login button
+2021-12-19 11:44:56,952 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-12-19 11:44:56,956 [main] INFO logger_File - ScnarioRetail website Login test PASSED
+2021-12-19 11:44:57,003 [main] INFO logger_File - ScenarioRetail website Login test with muliple accountsStarted
+2021-12-19 11:45:01,085 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:45:01,194 [main] INFO logger_File - user clicked on MyAccount
+2021-12-19 11:45:01,505 [main] INFO logger_File - user cliecked on Login option
+2021-12-19 11:45:01,726 [main] INFO logger_File - user entersaad@test.comand passwordtest1234
+2021-12-19 11:45:02,081 [main] INFO logger_File - user clicked on login button
+2021-12-19 11:45:02,082 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-12-19 11:45:02,083 [main] INFO logger_File - ScnarioRetail website Login test with muliple accounts PASSED
+2021-12-19 11:45:02,134 [main] INFO logger_File - ScenarioRetail website Login test with muliple accountsStarted
+2021-12-19 11:45:06,439 [main] INFO logger_File - Actual Titel is Matching With Expected Title
+2021-12-19 11:45:06,529 [main] INFO logger_File - user clicked on MyAccount
+2021-12-19 11:45:06,848 [main] INFO logger_File - user cliecked on Login option
+2021-12-19 11:45:07,076 [main] INFO logger_File - user entersaad1@test.comand passwordtest1234
+2021-12-19 11:45:07,516 [main] INFO logger_File - user clicked on login button
+2021-12-19 11:45:07,518 [main] INFO logger_File - user is logged in to MyAccount Dashboard
+2021-12-19 11:45:07,519 [main] INFO logger_File - ScnarioRetail website Login test with muliple accounts PASSED

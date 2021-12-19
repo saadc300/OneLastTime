@@ -244,3 +244,87 @@
 2021-12-12 21:06:33,500 - logger_File -INFO - User should see a message Success: Your account has been successfully updated
 2021-12-12 21:06:33,502 - logger_File -INFO - ScnarioEdit your account Information PASSED
 2021-12-15 21:04:02,646 - logger_File -INFO - Scenariouser verify all items are present in Desktops tabStarted
+2021-12-19 11:36:58,273 - logger_File -INFO - Scenariouser verify all items are present in Desktops tabStarted
+2021-12-19 11:37:06,895 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:07,015 - logger_File -INFO - user click on desktop tab
+2021-12-19 11:37:09,090 - logger_File -INFO - Scnariouser verify all items are present in Desktops tab PASSED
+2021-12-19 11:37:09,134 - logger_File -INFO - Scenariouser add HP LP 3065  from Desktops tab to the cartStarted
+2021-12-19 11:37:12,914 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:13,056 - logger_File -INFO - user click on desktop tab
+2021-12-19 11:37:17,645 - logger_File -INFO - Scnariouser add HP LP 3065  from Desktops tab to the cart PASSED
+2021-12-19 11:37:17,672 - logger_File -INFO - Scenariouser add Canon EOS 5D from Desktops tab to the cartStarted
+2021-12-19 11:37:24,921 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:25,009 - logger_File -INFO - user click on desktop tab
+2021-12-19 11:37:30,319 - logger_File -INFO - Scnariouser add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-12-19 11:37:30,366 - logger_File -INFO - Scenariouser add a review to Canon EOS 5D item in Desktops tabStarted
+2021-12-19 11:37:35,330 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:37:35,432 - logger_File -INFO - user click on desktop tab
+2021-12-19 11:37:45,142 - logger_File -INFO - Scnariouser add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-12-19 11:37:45,167 - logger_File -INFO - ScenarioUser verify currency values changeStarted
+2021-12-19 11:37:50,984 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:37:51,123 - logger_File -INFO - User successfully clicked on Currency button
+2021-12-19 11:37:52,130 - logger_File -INFO - User successfully selected Euro as Currency
+2021-12-19 11:37:53,237 - logger_File -INFO - Valideted that currency is Euro now
+2021-12-19 11:37:53,238 - logger_File -INFO - ScnarioUser verify currency values change PASSED
+2021-12-19 11:37:53,258 - logger_File -INFO - ScenarioUser empty Shopping cart message displaysStarted
+2021-12-19 11:37:59,224 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:37:59,411 - logger_File -INFO - User clicked on Shopping Cart button
+2021-12-19 11:38:00,618 - logger_File -INFO - Validated that cart is empty
+2021-12-19 11:38:00,619 - logger_File -INFO - ScnarioUser empty Shopping cart message displays PASSED
+2021-12-19 11:38:00,642 - logger_File -INFO - ScenarioAdd and Remove a Mac book from CartStarted
+2021-12-19 11:38:06,103 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:38:09,972 - logger_File -INFO - ScnarioAdd and Remove a Mac book from Cart PASSED
+2021-12-19 11:38:09,995 - logger_File -INFO - ScenarioProduct ComparisonStarted
+2021-12-19 11:38:15,043 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:38:18,045 - logger_File -INFO - ScnarioProduct Comparison PASSED
+2021-12-19 11:38:18,064 - logger_File -INFO - ScenarioAdding an item to Wish list   compare.add('44');Started
+2021-12-19 11:38:24,237 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:38:25,761 - logger_File -INFO - ScnarioAdding an item to Wish list   compare.add('44'); PASSED
+2021-12-19 11:38:25,782 - logger_File -INFO - ScenarioValidate the price of MacBook Pro is 2000Started
+2021-12-19 11:38:34,735 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:38:38,194 - logger_File -INFO - ScnarioValidate the price of MacBook Pro is 2000 PASSED
+2021-12-19 11:38:38,306 - logger_File -INFO - ScenarioRegister as an Affiliate user with Cheque Payment MethodStarted
+2021-12-19 11:38:44,965 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:38:45,042 - logger_File -INFO - User Click On Myaccount
+2021-12-19 11:38:46,726 - logger_File -INFO - User Click on Login Option
+2021-12-19 11:38:46,987 - logger_File -INFO - Usersaad@test.comand password test1234
+2021-12-19 11:38:47,481 - logger_File -INFO - User Click on Login lOption
+2021-12-19 11:38:59,887 - logger_File -INFO - ScnarioRegister as an Affiliate user with Cheque Payment Method FAILED
+2021-12-19 11:38:59,940 - logger_File -INFO - ScenarioEdit your affiliate information from Cheque payment method to Bank TransferStarted
+2021-12-19 11:39:04,428 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:39:04,521 - logger_File -INFO - User Click On Myaccount
+2021-12-19 11:39:04,859 - logger_File -INFO - User Click on Login Option
+2021-12-19 11:39:05,033 - logger_File -INFO - Usersaad@test.comand password test1234
+2021-12-19 11:39:05,318 - logger_File -INFO - User Click on Login lOption
+2021-12-19 11:39:13,836 - logger_File -INFO - ScnarioEdit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-12-19 11:39:13,869 - logger_File -INFO - ScenarioEdit your account InformationStarted
+2021-12-19 11:39:18,563 - logger_File -INFO - Actual Title is matching with expected Title
+2021-12-19 11:39:18,648 - logger_File -INFO - User Click On Myaccount
+2021-12-19 11:39:19,378 - logger_File -INFO - User Click on Login Option
+2021-12-19 11:39:19,591 - logger_File -INFO - Usersaad@test.comand password test1234
+2021-12-19 11:39:19,920 - logger_File -INFO - User Click on Login lOption
+2021-12-19 11:39:24,016 - logger_File -INFO - ScnarioEdit your account Information FAILED
+2021-12-19 11:44:50,987 - logger_File -INFO - ScenarioRetail website Login testStarted
+2021-12-19 11:44:55,987 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:44:56,104 - logger_File -INFO - user clicked on MyAccount
+2021-12-19 11:44:56,424 - logger_File -INFO - user cliecked on Login option
+2021-12-19 11:44:56,624 - logger_File -INFO - user entersaad@test.comand passwordtest1234
+2021-12-19 11:44:56,950 - logger_File -INFO - user clicked on login button
+2021-12-19 11:44:56,952 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-12-19 11:44:56,956 - logger_File -INFO - ScnarioRetail website Login test PASSED
+2021-12-19 11:44:57,003 - logger_File -INFO - ScenarioRetail website Login test with muliple accountsStarted
+2021-12-19 11:45:01,085 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:45:01,194 - logger_File -INFO - user clicked on MyAccount
+2021-12-19 11:45:01,505 - logger_File -INFO - user cliecked on Login option
+2021-12-19 11:45:01,726 - logger_File -INFO - user entersaad@test.comand passwordtest1234
+2021-12-19 11:45:02,081 - logger_File -INFO - user clicked on login button
+2021-12-19 11:45:02,082 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-12-19 11:45:02,083 - logger_File -INFO - ScnarioRetail website Login test with muliple accounts PASSED
+2021-12-19 11:45:02,134 - logger_File -INFO - ScenarioRetail website Login test with muliple accountsStarted
+2021-12-19 11:45:06,439 - logger_File -INFO - Actual Titel is Matching With Expected Title
+2021-12-19 11:45:06,529 - logger_File -INFO - user clicked on MyAccount
+2021-12-19 11:45:06,848 - logger_File -INFO - user cliecked on Login option
+2021-12-19 11:45:07,076 - logger_File -INFO - user entersaad1@test.comand passwordtest1234
+2021-12-19 11:45:07,516 - logger_File -INFO - user clicked on login button
+2021-12-19 11:45:07,518 - logger_File -INFO - user is logged in to MyAccount Dashboard
+2021-12-19 11:45:07,519 - logger_File -INFO - ScnarioRetail website Login test with muliple accounts PASSED

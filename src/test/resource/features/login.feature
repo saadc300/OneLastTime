@@ -1,3 +1,4 @@
+@Test
 Feature: Login to Retail Website
  
 
