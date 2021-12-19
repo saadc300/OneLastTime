@@ -23,7 +23,7 @@ And user select quantity (1)
 And user click add to Cart button 
 Then user should see a message Success: You have added Canon EOS 5D to your shopping cart!
  
-Scenario: user add a review to Canon EOS 5D item in Desktops tab
+Scenario Outline: user add a review to Canon EOS 5D item in Desktops tab
 And user click on Canon EOS 5D item 
 And user click on write a review link 
 And user fill the review information with below information '<yourname>' '<yourReview>' '<Rating>'
