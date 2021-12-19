@@ -8,7 +8,7 @@ import utilities.CucumberReportingConfig;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "classpath:features",
+		features = ".\\src\\test\\resource\\features",
 		glue = "stepDefinitions",// to link to stepDefinitions folder
 		tags = "@Test", // will run one scenario , or multiple scenarios, or entire feature
 		dryRun= false, //checks if there are any missing steps in stepDefinition class for each scenario 
